@@ -1,3 +1,3 @@
 # chatbot_pdf
-- update from thaonv.hfc@gmail.com
+- update from github thaonv.hfc
 - 
